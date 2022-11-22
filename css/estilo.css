@@ -1,0 +1,74 @@
+h1,h2,h3,h4,h5,h6 {
+	color:#FFCCAA;
+}
+
+.cajah{
+	height:120px;
+	top:20px;
+	position:relative;
+	bottom:140px;
+	float:left;
+}
+
+h1 {
+	display:inline-block;
+	position:absolute;
+	left:100px;
+	bottom:30px;
+}
+
+a {
+	color:#008751;
+}
+
+header img{
+	bottom:50px;
+	position:absolute;
+}
+
+nav li{
+	background:#1D2B53;
+	font-size:90%;
+	color:#008751;
+	width:120px;
+	padding: 5px;
+	border: 5px outset #7E2553;
+	border-radius:10px;
+	display:inline-block;
+	left:330px;
+	top:10px;
+	position:relative;
+}
+
+nav {
+	display:inline-block;
+}
+
+blockquote {
+	font-size:0.75em;
+}
+
+footer {
+	font-size:80%;
+}
+
+body {
+	background:url(../img/fondo.png);
+	background-attachment:fixed;
+	color:#FFF1E8;
+	font-size:24px;
+	font-family:"SOURCE SANS PRO";
+	
+}
+
+.objetivos {
+	background-color:#1D2B53;
+	border:10px outset #7E2553;
+
+}
+
+div h2 {
+	color:#FF77A8;
+	margin:0px;
+	padding:10px;
+}
